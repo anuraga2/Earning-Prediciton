@@ -1,0 +1,7 @@
+# Images #
+##########
+*.png
+
+# SAS Datasets #
+##########
+*.sas7bdat
